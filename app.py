@@ -6,6 +6,14 @@ from api.v1.paradadeplanta import router as v3_router
 
 app = FastAPI()
 
+print("asdasdadasdas")
+print("asdasdadasdas")
+print("asdasdadasdas")
+print("asdasdadasdas")
+print("asdasdadasdas")
+print("asdasdadasdas")
+print("asdasdadasdas")
+
 origins = [
     "http://localhost:8000", 
     "https://marcobremantenimientobpy-production.up.railway.app",
